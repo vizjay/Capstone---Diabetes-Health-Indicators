@@ -36,3 +36,6 @@ I want to experiment with additional classification techniques, provided my mach
 
 #### Outline of project
 https://github.com/vizjay/Capstone---Diabetes-Health-Indicators
+
+##### Contact and Further Information
+For suggestions and recommendations on enhancing this model, please feel free to contact me at viz0481@gmail.com. I look forward to discussing further details with you.
